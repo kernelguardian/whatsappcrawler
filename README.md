@@ -1,14 +1,13 @@
 # Webwhatsapp crawler
 
-Uses selenium, a web automation framework to do all the heavy lifting
+Uses [Selenium](https://pypi.org/project/selenium/), a web automation framework to do all the heavy lifting
+
 
 ## Installation
 
 ```bash
 pip install selenium
 ```
-
-
 
 
 ## Contributing
