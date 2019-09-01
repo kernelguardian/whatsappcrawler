@@ -1,0 +1,27 @@
+name: scrape
+channels:
+  - defaults
+dependencies:
+  - asn1crypto=0.24.0=py37_0
+  - ca-certificates=2019.5.15=1
+  - certifi=2019.6.16=py37_1
+  - cffi=1.12.3=py37h7a1dbc1_0
+  - cryptography=2.7=py37h7a1dbc1_0
+  - idna=2.8=py37_0
+  - openssl=1.1.1c=he774522_1
+  - pip=19.2.2=py37_0
+  - pycparser=2.19=py37_0
+  - pyopenssl=19.0.0=py37_0
+  - pysocks=1.7.0=py37_0
+  - python=3.7.0=hea74fb7_0
+  - selenium=3.141.0=py37he774522_0
+  - setuptools=41.0.1=py37_0
+  - six=1.12.0=py37_0
+  - urllib3=1.25.3=py37_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_4
+  - wheel=0.33.4=py37_0
+  - win_inet_pton=1.1.0=py37_0
+  - wincertstore=0.2=py37_0
+prefix: C:\ProgramData\Anaconda3\envs\scrape
+
