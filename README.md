@@ -8,6 +8,9 @@ Uses [Selenium](https://pypi.org/project/selenium/), a web automation framework 
 ```bash
 pip install selenium
 ```
+## Remarks
+ I have added only the functionality for chrome browser Version.76.0.3809.132, if you wish to add other browsers download respective drivers from [here](https://pypi.org/project/selenium/).
+// IF IT FAILS TO RUN CHECK THE YOUR WEB BROWSER VERSION //
 
 
 ## Contributing
